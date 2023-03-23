@@ -14,7 +14,8 @@ export default [
     id: 2,
     title: "Sydney Opera House",
     location: "AUSTRALIA",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567799,151.213108,17z/data=!3m2!4b1!5s0x6b12ae67d234a27f:0xd6d4e9380ca1e32f!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0",
     startDate: "27 May, 2021",
     endDate: "8 Jun, 2021",
     description:
@@ -25,7 +26,7 @@ export default [
     id: 3,
     title: "Geirangerfjord",
     location: "NORWAY",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl: "https://goo.gl/maps/6KqifSRzKD7GyCX58",
     startDate: "01 Oct, 2021",
     endDate: "18 Nov, 2021",
     description:
